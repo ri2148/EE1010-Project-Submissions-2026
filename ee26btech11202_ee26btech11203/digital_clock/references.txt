@@ -1,0 +1,8 @@
+Reference used: 
+1. GVV sir's repo for digital clock - Used the main pdf to understand the connections and general procedure to be followed. Used to the code given to get an idea/ blueprint on how to proceed.
+https://github.com/gadepall/clock
+
+2. Youtube Channel - The Organic Chemistry Tutor - To learn about Karnaugh Maps
+https://www.youtube.com/watch?v=RO5alU6PpSU&t=1312s
+
+3. Gemini AI(LLM)-To understand the theory like multiplexing, debouncing and ghosting in further detail, to look up common errors when we were unable to figure out on our own. We used it to see how some basic functions like pinMode, digitalWrite, and digitalRead work.
