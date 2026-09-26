@@ -1,0 +1,4 @@
+The references used were:
+1) Gemini AI- To understand the theory and how components work, to understand what value of capacitance and inductance to add to our new filter, to research on improving the power output
+2) https://github.com/gadepall/signal-processing/blob/main/ee3900-assignments/charger_lab/main.pdf - We used this repo to get a basic understanding of the charger.
+
